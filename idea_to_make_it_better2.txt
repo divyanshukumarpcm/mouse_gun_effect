@@ -1,0 +1,9 @@
+I hope u checked my first idea it is very basic one.
+
+Now if you want to do timings right, then you may want to use that arduino - to filter and adjust to any gun firing rate. For example if macro vibrations are at say 20 Hz and 
+gun can fire at 5 bullets per second, then we have to adjust to send 5 signals in a second or something like that. we can change the type of gun by attaching some keys on arduino which will change 
+the vibration rates.
+
+Also, try integrating game commands with serial communication (- this may lead to getting banned on wahtever game you are playing)
+
+divyanshukumarpcm@gmail.com
