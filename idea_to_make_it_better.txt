@@ -1,0 +1,9 @@
+Hi,
+This is not a code just a suggestion - 
+Suggestion: - 
+
+When you click ur mouse some terminals touch and send signal to ur computer. How about we utilize that signal to give response to those relays. We create a simple circuitry which 
+will be completed when mouse is pressed and will send a "1" directly to relays. In this way, arduino and PC code can be avoided and delay(lag) will be less. So, we no longer require arduino device.
+I am pretty sure you can solve the relay trigger power issue on your own.
+
+if u wanna build something together - divyanshukumarpcm@gmail.com (NIT Silchar - ECE)
